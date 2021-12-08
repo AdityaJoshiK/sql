@@ -1,0 +1,11 @@
+INSERT INTO BRANCH
+VALUES ('VECE','NAGPUR'),
+       ('AJNI','NAGPUR'),
+	   ('KAROLBAGH','DELHI'),
+	   ('CHANDI','DELHI'),
+	   ('DHARMPETH','NAGPUR'),
+	   ('M.G ROAD','BANGLORE'),
+	   ('ANDHERI','BOMBAY'),
+	   ('VIRAR','BOMBAY'),
+	   ('NEHRU PLACE','DELHI'),
+	   ('POWAI','BOMBAY');

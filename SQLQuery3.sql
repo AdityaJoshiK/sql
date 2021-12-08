@@ -1,0 +1,5 @@
+CREATE TABLE CUSTOMERS
+(
+  CNAME varchar(50),
+  CITY VARCHAR(50),
+);
